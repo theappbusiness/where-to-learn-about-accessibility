@@ -44,6 +44,12 @@ The following resources cover the same guidelines (or sometimes more), but are w
 
 * [Certified Accessibility Professional Core Competencies preparation course](https://dequeuniversity.com/curriculum/courses/iaap-cpacc#iaap-cpacc) (Deque, $45)
 
+### Learning about assistive technologies
+
+* Rob Dodson's video demos of [macOS VoiceOver](https://www.youtube.com/watch?v=5R-6WvAihms), [iOS VoiceOver](https://www.youtube.com/watch?v=bCHpdjvxBws), [Android TalkBack](https://www.youtube.com/watch?v=0Zpzl4EKCco) and [Switch devices](https://www.youtube.com/watch?v=V1yoOLhx_qA)
+
+* Deque's [Screen Reader Keyboard Shortcuts and Gestures](https://dequeuniversity.com/screenreaders/) cheat sheets show you how to use all the main screen readers
+
 ## Design-specific
 
 * [Annotating designs for accessibility](https://drive.google.com/a/theappbusiness.com/file/d/1n0DkLoFydmbNxLisivqHh8xoo467HgBJ/view?usp=sharing) (TPG)
