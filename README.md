@@ -88,10 +88,14 @@ The following resources cover the same guidelines (or sometimes more), but are w
 
 The following component examples are fully supported by browsers and screen readers today. They include more accessibility best practices than covered by the Web Content Accessibility Guidelines:
 
+##### Guides or tutorials
+
 * [Inclusive Components](https://inclusive-components.design/) by Heydon Pickering. This book/blog is a great place to start
 * Scott O’Hara’s [Accessible Components](https://github.com/scottaohara/accessible_components) and [The Accessibility of Styled Form Controls](https://github.com/scottaohara/a11y_styled_form_controls) 
 * This [great talk by Oliver Byford](https://obyford.com/posts/inclusive-forms/) explaining some accessibility considerations and implementation techniques behind the GDS Design System
 * Lots of component patterns on [Adrian Roselli’s blog](https://adrianroselli.com/tag/accessibility)
+
+##### Other components with good code annotations
 
 Here are some other examples of highly accessible components:
 
