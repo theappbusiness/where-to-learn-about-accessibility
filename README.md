@@ -88,6 +88,8 @@ The following resources cover the same guidelines (or sometimes more), but are w
 
 * [ARIA in HTML](https://www.w3.org/TR/html-aria/) is another short W3C document that explains ARIA semantics are implied by the different HTML elements, and what ARIA roles and attributes you can use on what HTML elements.
 
+* Michael Fairchild's [a11ysupport.io](https://a11ysupport.io/) is still in its early days but is the best support table available for ARIA roles and attributes
+
 #### Understanding how to build accessible UI components
 
 * The [ARIA Authoring Practices Guide](https://www.w3.org/TR/wai-aria-practices-1.1/) is a great document that tells you how to implement a broad range of very common UI patterns (e.g. tabs, switches, toggles, dialog, feed, etc). Concretely, it tells you:
