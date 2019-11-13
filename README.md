@@ -64,40 +64,42 @@ The following resources cover the same guidelines (or sometimes more), but are w
 
 * You can also ask any question and get experts' answers quickly on [WebAIM mailing list](https://webaim.org/discussion/)
 
-## Resources that require a little bit of knowledge about web development
+## Resources that require some knowledge about web development
 
 * [Rob Dodson’s A11ycast Youtube Short Videos Series](https://www.youtube.com/playlist?list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g) (Google)
 
 * [Accessibility | Web Fundamentals](https://developers.google.com/web/fundamentals/accessibility/) (Text version of [Google’s video course on Udacity](https://eu.udacity.com/course/web-accessibility--ud891))
 
+* The [online web accessibility courses by Deque](https://dequeuniversity.com/curriculum/online-classes/) are very comprehensive and explain things in a lot of details. They are the easiest way to get good at web accessibility. Individual courses cost $45, and there’s a [bundle covering everything you need to know for $150](https://dequeuniversity.com/curriculum/packages/iaap-was).
+
 * https://a11yproject.com/ Use the nav at the top of the page to find Patterns, Checklist and Resources
 
-## Resources that require more knowledge about web development
+### Resources that require more knowledge about web development
 
-### Understanding ARIA
+#### Understanding ARIA
 
 * [Using ARIA](https://www.w3.org/TR/using-aria/) is a great official W3C document that explains in plain, concrete language how ARIA works, and how to use ARIA without messing things up. It’s a much more engaging read than the ARIA specs.
 
 * [ARIA in HTML](https://www.w3.org/TR/html-aria/) is another short W3C document that explains ARIA semantics are implied by the different HTML elements, and what ARIA roles and attributes you can use on what HTML elements.
 
-### Understanding how to build accessible UI components
+#### Understanding how to build accessible UI components
 
 * The [ARIA Authoring Practices Guide](https://www.w3.org/TR/wai-aria-practices-1.1/) is a great document that tells you how to implement a broad range of very common UI patterns (e.g. tabs, switches, toggles, dialog, feed, etc). Concretely, it tells you:
   * What keyboard support you need to implement to meet users’ expectations (which are largely set by how the same patterns are implemented in operating systems)
   * How to build these components using ARIA. (But be careful to read the document's 'Read me first' section if you intend to reuse these coding patterns as is)
 
-#### Here are some great guides on how to design and code high-quality UI components
+##### Here are some great guides on how to design and code high-quality UI components
 
 The following component examples are fully supported by browsers and screen readers today. They include more accessibility best practices than covered by the Web Content Accessibility Guidelines:
 
-##### Guides or tutorials
+###### Guides or tutorials
 
 * [Inclusive Components](https://inclusive-components.design/) by Heydon Pickering. This book/blog is a great place to start
 * Scott O’Hara’s [Accessible Components](https://github.com/scottaohara/accessible_components) and [The Accessibility of Styled Form Controls](https://github.com/scottaohara/a11y_styled_form_controls) 
 * This [great talk by Oliver Byford](https://obyford.com/posts/inclusive-forms/) explaining some accessibility considerations and implementation techniques behind the GDS Design System
 * Lots of component patterns on [Adrian Roselli’s blog](https://adrianroselli.com/tag/accessibility)
 
-##### Other components with good code annotations
+###### Other components with good code annotations
 
 Here are some other examples of highly accessible components:
 
