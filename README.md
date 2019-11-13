@@ -82,7 +82,7 @@ The following resources cover the same guidelines (or sometimes more), but are w
 
 ### Resources that require more knowledge about web development
 
-#### Understanding ARIA
+#### Understanding ARIA and how to use it
 
 * [Using ARIA](https://www.w3.org/TR/using-aria/) is a great official W3C document that explains in plain, concrete language how ARIA works, and how to use ARIA without messing things up. It’s a much more engaging read than the ARIA specs.
 
