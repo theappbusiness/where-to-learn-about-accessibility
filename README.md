@@ -6,6 +6,8 @@ We’ve included a wide range of formats and topics, often covering overlapping 
 
 Click on whichever picks your curiosity. 
 
+**Please feel free to ask questions, raise issues and contribute.**
+
 Happy learning!
 
 ## Good general introductions
