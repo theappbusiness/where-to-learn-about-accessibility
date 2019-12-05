@@ -4,7 +4,7 @@ Here are some of the best resources to start learning about accessibility and in
 
 We’ve included a wide range of formats and topics, often covering overlapping content. 
 
-Click on whichever picks your curiosity. 
+Click on whichever piques your curiosity. 
 
 **Please feel free to ask questions, raise issues and contribute.**
 
