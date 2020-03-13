@@ -30,11 +30,11 @@ Happy learning!
 
 The following resources cover the same guidelines (or sometimes more), but are written to be easier to read:
 
+* [Kin + Carta's plain-language summary of the Web Content Accessibility Guidelines](https://theappbusiness.github.io/accessibility-guidelines/)
+
 * [Deque's Accessibility Checklist](https://dequeuniversity.com/checklists/web/)
 
 * [BBC Mobile Accessibility Guidelines](https://www.bbc.co.uk/guidelines/futuremedia/accessibility/mobile/summary)
-
-* [Digital Accessibility Standards](https://home.barclays/who-we-are/our-suppliers/our-requirements-of-external-suppliers/#digital%20accessibility%20standards-tab) (Barclays, covers web, iOS and Android accessibility techniques)
 
 ## Learning about how people with disabilities use websites and apps
 
