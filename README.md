@@ -50,17 +50,13 @@ The following resources cover the same guidelines (or sometimes more), but are w
 
 * Deque's [Screen Reader Keyboard Shortcuts and Gestures](https://dequeuniversity.com/screenreaders/) cheat sheets show you how to use all the main screen readers
 
-## Design-specific
-
-* [Annotating designs for accessibility](https://drive.google.com/a/theappbusiness.com/file/d/1n0DkLoFydmbNxLisivqHh8xoo467HgBJ/view?usp=sharing) (TPG)
-
 ## Guides on how to test accessibility (which is everyone's job)
 
 * [Accessibility Insights](https://accessibilityinsights.io/) (Microsoft’s great browser extension guides you through manual web accessiblity testing. It also integrates [Axe](https://www.deque.com/axe/) for the bits that can be tested automatically)
 
 ## Getting your questions answered
 
-* #topic-accessibility on TAB’s Slack
+* #topic-accessibility on K+C’s Slack
 
 * #grp-topic-a11y on TAB’s or K+C’s Slack
 
